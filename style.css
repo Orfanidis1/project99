@@ -1,0 +1,20 @@
+#dev{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+img:hover{
+    border-radius: 140px;
+}
+#camera{
+    width:500px;
+    height:400px;
+}
+#textbox
+{
+    width: 300px;
+}
